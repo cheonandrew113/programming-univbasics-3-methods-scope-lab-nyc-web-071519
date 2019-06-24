@@ -1,4 +1,4 @@
-def mario(status = "It's me, Mario!")
+def mario(status = "It's-a me, Mario!")
   puts phrase
 end
 
