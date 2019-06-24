@@ -6,3 +6,12 @@ end
 def toadstool
   puts status
 end
+
+def any_phrase
+  phrase = "Do A Barrel Roll!"
+  puts phrase
+end
+ 
+def link
+  
+end
