@@ -4,7 +4,7 @@ def mario
 end
 
 def toadstool
-  puts status
+  puts ""
 end
 
 def any_phrase(phrase = "Do a Barrel Roll!")
